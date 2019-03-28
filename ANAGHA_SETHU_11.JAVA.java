@@ -1,4 +1,4 @@
-class alpha 
+Public class alpha 
 {
 public static void main(String args[])
 {
